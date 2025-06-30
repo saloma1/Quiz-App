@@ -1,0 +1,148 @@
+[
+  {
+    "title": "What Does HTML Stand For?",
+    "answers": {
+      "a": "Hyper Text Markup Language",
+      "b": "Home Tool Markup Language",
+      "c": "Hyperlinks and Text Markup Language",
+      "d": "Hyper Tool Markup Language"
+    },
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Who Is Making The Web Standards?",
+    "answers": {
+      "a": "Mozilla",
+      "b": "Google",
+      "c": "Microsoft",
+      "d": "The World Wide Web Consortium"
+    },
+    "right_answer": "The World Wide Web Consortium"
+  },
+  {
+    "title": "Choose The Correct HTML Element For The Largest Heading:",
+    "answers": {
+      "a": "<heading>",
+      "b": "<h6>",
+      "c": "<head>",
+      "d": "<h1>"
+    },
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answers": {
+      "a": "<br>",
+      "b": "<break>",
+      "c": "<lb>",
+      "d": "<newline>"
+    },
+    "right_answer": "<br>"
+  },
+  {
+    "title": "What is the correct HTML for adding a background color?",
+    "answers": {
+      "a": "<body bg='yellow'>",
+      "b": "<background>yellow</background>",
+      "c": "<body style='background-color:yellow;'>",
+      "d": "<bg>yellow</bg>"
+    },
+    "right_answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "title": "Which HTML element is used to specify a footer for a document?",
+    "answers": {
+      "a": "<bottom>",
+      "b": "<footer>",
+      "c": "<section>",
+      "d": "<aside>"
+    },
+    "right_answer": "<footer>"
+  },
+  {
+    "title": "Which character is used to indicate an end tag?",
+    "answers": {
+      "a": "*",
+      "b": "<",
+      "c": "/",
+      "d": "^"
+    },
+    "right_answer": "/"
+  },
+  {
+    "title": "How can you open a link in a new tab/browser window?",
+    "answers": {
+      "a": "<a href='url' target='_blank'>",
+      "b": "<a href='url' new>",
+      "c": "<a href='url' target='new'>",
+      "d": "<a href='url' open='true'>"
+    },
+    "right_answer": "<a href='url' target='_blank'>"
+  },
+  {
+    "title": "Which HTML element defines navigation links?",
+    "answers": {
+      "a": "<navigate>",
+      "b": "<nav>",
+      "c": "<menu>",
+      "d": "<links>"
+    },
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "What is the correct HTML for making a checkbox?",
+    "answers": {
+      "a": "<checkbox>",
+      "b": "<input type='checkbox'>",
+      "c": "<input checkbox='true'>",
+      "d": "<check>"
+    },
+    "right_answer": "<input type='checkbox'>"
+  },
+    {
+        "title": "Which HTML element is used to define an internal style sheet?",
+        "answers": {
+        "a": "<style>",
+        "b": "<css>",
+        "c": "<script>",
+        "d": "<stylesheet>"
+        },
+        "right_answer": "<style>"
+    },
+    {"title": "What is the purpose of the <meta> tag in HTML?",
+        "answers": {
+        "a": "To define metadata about an HTML document",
+        "b": "To create a hyperlink",
+        "c": "To add a comment",
+        "d": "To insert an image"
+        },
+        "right_answer": "To define metadata about an HTML document"
+    },
+    {"title": "Which HTML element is used to create a dropdown list?",
+        "answers": {
+        "a": "<select>",
+        "b": "<dropdown>",
+        "c": "<list>",
+        "d": "<option>"
+        },
+        "right_answer": "<select>"
+    },
+    {"title": "What is the purpose of the <div> element in HTML?",
+        "answers": {
+        "a": "To create a division or section in a document",
+        "b": "To insert an image",
+        "c": "To create a hyperlink",
+        "d": "To define a paragraph"
+        },
+        "right_answer": "To create a division or section in a document"
+    },
+    {"title": "Which HTML element is used to define a table?",
+        "answers": {
+        "a": "<table>",
+        "b": "<tab>",
+        "c": "<grid>",
+        "d": "<data>"
+        },
+        "right_answer": "<table>"
+    }
+]
